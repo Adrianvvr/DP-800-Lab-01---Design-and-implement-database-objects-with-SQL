@@ -1,7 +1,5 @@
 # DP-800 Lab 01: Diseño e implementación de bases de datos con SQL
 
-⏱️ **Tiempo estimado:** 30 minutos
-
 ## 🎯 Objetivo
 Diseñar el esquema de una plataforma e-commerce implementando tablas, restricciones, historial de datos, almacenamiento JSON y particionamiento usando SQL Server 2025+.
 
